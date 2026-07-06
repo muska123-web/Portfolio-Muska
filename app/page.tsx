@@ -97,7 +97,7 @@ export default function Home() {
 </div>
               </div>
               <div className="p-5 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-all duration-300 backdrop-blur-sm">
-                <h3 className="font-bold text-lg">Project Two</h3>
+            
                 <h3 className="font-bold text-lg">
    DEEPFAKE DETECTION APP
 </h3>
